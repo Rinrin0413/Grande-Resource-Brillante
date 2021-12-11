@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "§cGNU General Public License v3.0",
+        "name": "[ver1.0]§l§6Grande §aResource §eBrillante",
+        "uuid": "1aa8f743-d3bf-92c6-c17f-eab776251bbf",
+        "version": [0, 1, 0]
+    },
+    "modules": [
+        {
+            "description": "§cGNU General Public License v3.0",
+            "type": "resources",
+            "uuid": "d4ed56aa-8f08-6935-5bc5-3990d5a655c9",
+            "version": [0, 1, 0]
+        }
+    ]
+}
